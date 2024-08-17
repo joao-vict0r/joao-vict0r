@@ -1,5 +1,4 @@
 # Joao_Victor
-- Estudando de CyberSegurança - Estacio
 - Estudante de Back-end
 - Analista de Suporte e infraestrutura de ti 💻
 - Analise de dados e manutenção de sistema
