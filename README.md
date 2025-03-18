@@ -1,7 +1,8 @@
 # Joao_Victor
-- Estudante de Back-end
+- Dev - Back-end
+- DevOps
 - Analista de Suporte de ti 💻
-- Analise de dados e manutenção de sistema
+- Analise de dados e manutenção de sistemas
 - Analista cloud AWS
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
