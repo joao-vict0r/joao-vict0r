@@ -1,5 +1,5 @@
 # Joao_Victor
-- Dev - Back-end
+- Dev - Python, JS, Flutter e C#
 - DevOps
 - Analista de Suporte de ti 💻
 - Analise de dados e manutenção de sistemas
