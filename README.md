@@ -1,9 +1,9 @@
 # Joao_Victor
-- Dev - Python, JS,TS, Flutter e C#
+- FullStakDevelporer
 - DevOps
 - Analista de Suporte de ti 💻
 - Analise de dados e manutenção de sistemas
-- Analista cloud
+- Desenvlvedor Mobile e Web
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
