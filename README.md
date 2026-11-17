@@ -1,5 +1,5 @@
 # Joao_Victor
-- FullStakDevelporer
+- full stack developer
 - DevOps
 - Analista de Suporte de ti 💻
 - Analise de dados e manutenção de sistemas
